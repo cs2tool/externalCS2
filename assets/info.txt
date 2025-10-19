@@ -1,2 +1,3 @@
 Note design refresh
 Update annotation tool
+Enable customizable email templates
